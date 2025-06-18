@@ -20,3 +20,16 @@ The program is executed from the command line with the following arguments:
 
 ```bash
 ./programbinary M N p q r
+
+📝 Output
+Output is written to a file named:
+23125023_M_N_p_q_r.txt
+
+The file contains step-by-step operations for each time step (T=1, T=2, ..., etc.)
+
+📁 Files
+main.cpp — Source file containing the implementation.
+
+README.md — This documentation.
+
+23125023_M_N_p_q_r.txt — Sample output files (auto-generated).
